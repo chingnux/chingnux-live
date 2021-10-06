@@ -29,7 +29,7 @@ systempkg=(base base-devel grub git openssh htop acpid iasl dmidecode efibootmgr
 # TODO: we use linux or linux-lts, according to what hardware is installed
 # TODO: check if we need linux-firmware
 kernel=(linux linux-firmware)
-util=(lesspipe vim radare2 unarchiver)
+util=(lesspipe vim radare2 unarchiver lzip)
 desktop=(leafpad networkmanager ppp network-manager-applet fcitx-im fcitx-sunpinyin fcitx-configtool gvfs gvfs-mtp mupdf mpv puzzles)
 x11=(xorg xorg-drivers lxdm)
 audio=(pipewire-pulse pavucontrol)

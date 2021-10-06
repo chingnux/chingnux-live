@@ -58,6 +58,7 @@ pacman --noconfirm -Sy linux
 pacman --noconfirm -Syu --needed \
 	base-devel \
 	git \
+	lzip \
 	archiso \
 	wireguard-tools \
 	flashrom debootstrap htop \
